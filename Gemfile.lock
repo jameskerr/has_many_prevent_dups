@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    has_many_prevent_dups (0.0.1)
+    has_many_prevent_dups (0.0.2)
       rails (~> 4.0.0)
 
 GEM
